@@ -6,7 +6,7 @@ The first row show maximum CPU frequency, the second row show minimum CPU freque
 
 # Screenshot
 
-![screenshot.png](https://raw.githubusercontent.com/mhogomchungu/cpufrequencymonitor/main/cpufrequencymonitor.png)
+![screenshot.png](https://raw.githubusercontent.com/mhogomchungu/cpufrequencymonitor/main/screenshot.png)
 
 # License
 
