@@ -1,0 +1,14 @@
+[Desktop Entry]
+Categories=Qt;System;X-MandrivaLinux-MoreApplications-Other;
+Comment[en_US]=Displays CPU frequency
+Comment=Displays CPU frequency
+Exec=cpufrequencymonitor
+GenericName=Displayer of CPU frequency
+Name=CPU Frequency Monitor
+Icon=cpufrequencymonitor
+NoDisplay=false
+StartupNotify=true
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false
+X-Desktop-File-Install-Version=0.26
